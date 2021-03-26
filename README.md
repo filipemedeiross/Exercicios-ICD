@@ -1,0 +1,1 @@
+Repositório com arquivos referentes aos exercícios da disciplina de Introdução à Ciência de Dados.
